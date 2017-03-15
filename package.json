@@ -1,0 +1,17 @@
+{
+  "name": "addresses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "map.js",
+  "scripts": {
+    "test": "test",
+    "run": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "request": "^2.81.0",
+    "sync-request": "^4.0.1"
+  }
+}
